@@ -199,3 +199,10 @@ Logs can be found at http://localhost:9876/log/ode and SourceMaps at http://loca
 
 ## Need help?
 Join [our community](https://community.appinventor.mit.edu/).
+
+
+
+<hr>
+
+Thanks!
+
